@@ -75,12 +75,7 @@ npm run dev
 - **Primary Controls**: Toggle between Live Simulation, Map Modeler, and AI Optimizer.
 - **Quick Events**: Simulate real-world disruptions like **Accidents**, **Protests**, **Road Work**, or **Potholes**.
 - **Traffic Density**: Monitor flow patterns and potential bottle-necks in real-time.
-
----
-
-## 🏆 SIH Context
-This project was developed for the **Smart India Hackathon (SIH)** to address **Problem Statement ID 25100**: *Accelerating High-Fidelity Road Network Modeling for Indian Traffic Simulations.*
-
+  
 ---
 
 ## 📄 License
